@@ -10,6 +10,7 @@
 - Created GitHub profile README
 - Created Gaming Industry Learning Lab
 - Learned what repositories, README files and commits are
+- Learned GitHub basics: repositories, README files, commits, history, branches and file organization
 
 ## Currently Learning
 
