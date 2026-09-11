@@ -14,7 +14,6 @@
 
 ## Currently Learning
 
-- Git & GitHub basics
 - WordPress
 - English
 - Twine
