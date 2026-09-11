@@ -30,7 +30,7 @@ This repository documents my learning journey toward a career in the games indus
 - [x] Set up professional Discord profile
 - [x] Set up professional GitHub profile
 - [x] Create GitHub profile README
-- [ ] Learn GitHub basics
+- [x] Learn GitHub basics
 - [ ] Start WordPress basics
 - [ ] English level assessment
 - [ ] First Twine project
